@@ -1,0 +1,9 @@
+.VendingMachine {
+  text-align: center;
+  margin: 20px auto;
+}
+
+.itemLink {
+  margin: 5px;
+  padding: 5px;
+}
